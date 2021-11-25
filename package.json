@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-message-komodo",
+  "name": "bitcore-message-pirate",
   "version": "1.0.2",
-  "description": "Zcash Messages for Bitcore",
+  "description": "Pirate Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "komodo",
+    "pirate",
     "bitcore",
     "btc",
     "satoshi",
@@ -20,13 +20,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/DeckerSU/bitcore-message-komodo.git"
+    "url": "git+https://git@github.com/piratenetwork/bitcore-message-pirate.git"
   },
   "dependencies": {
-    "bitcore-lib-komodo": "git+https://git@github.com/DeckerSU/bitcore-lib-komodo"
+    "bitcore-lib-pirate": "git+https://git@github.com/piratenetwork/bitcore-lib-pirate"
   },
   "devDependencies": {
-    "bitcore-build-komodo": "git+ssh://git@github.com:bitcore-build-komodo",
+    "bitcore-build-pirate": "git+https://git@github.com/piratenetwork/bitcore-build-pirate",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
